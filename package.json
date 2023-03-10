@@ -1,0 +1,13 @@
+{
+    "name": "sample-node-app",
+    "version": "1.0.0",
+    "description": "my sample node app to demo ci/cd",
+    "main": "app/index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "test"
+    },
+    "author": "ronlaureles",
+    "license": "ISC"
+}
+  
